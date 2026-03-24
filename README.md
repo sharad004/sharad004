@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharad004
-- 👀 I’m interested in web development and ui/ux design
-- 🌱 I’m currently learning react.js
+- 👀 I’m interested in QA, web development and ui/ux design
+- 🌱 I’m currently learning react.js, api testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
